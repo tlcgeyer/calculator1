@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(118, 88, 39) ;
+    color: #fdfffc;
+    text-align: center;
+}
+input {
+    width: 55px;
+    height: 35px;
+    font-size: 25px;
+    border-radius: 10px;
+    margin: 10px;
+}
+h1 {
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+.btn:hover {
+    background-color: darkgray;
+    cursor: pointer;
+}
+.text {
+    width:
+}
