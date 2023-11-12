@@ -21,6 +21,10 @@ h1 {
     background-color: darkgray;
     cursor: pointer;
 }
-.text {
-    width:
+form {
+    border: 5px solid whitesmoke;
+    position: absolute;
+    margin-left: 570px;
+    border-style: groove;
+    border-radius: 20px;
 }
